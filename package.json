@@ -1,6 +1,6 @@
 {
   "name": "@itreg/password-utilities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple password utilities",
   "main": "src/index.js",
   "type": "commonjs",

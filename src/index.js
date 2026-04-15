@@ -12,6 +12,10 @@ function generateStrongPassword(length = 12) {
         }
     ).join("");
 
+    while (!isStrongPassword(strongPassword)) {
+        strongPassword = generateStrongPassword(length);
+    }
+
     return strongPassword;
 }
 
