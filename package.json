@@ -1,0 +1,20 @@
+{
+  "name": "@itreg/password-utilities",
+  "version": "1.0.0",
+  "description": "Simple password utilities",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "string",
+    "utility",
+    "password"
+  ],
+  "author": "itreg",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
